@@ -6858,8 +6858,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 46c03a498b6fe664db31487c7337f0ea, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  npcTxt: {fileID: 0}
-  npcTextUi: {fileID: 0}
+  npcTxt: {fileID: 830654901}
+  npcTextUi: {fileID: 862544041}
 --- !u!1 &1453839727
 GameObject:
   m_ObjectHideFlags: 0
